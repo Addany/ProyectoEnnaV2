@@ -1,4 +1,4 @@
-package easy.tuto.bottomnavigationfragmentdemo;
+package com.afonetech.mybottomnavigation;
 
 import org.junit.Test;
 
